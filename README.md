@@ -32,6 +32,7 @@ From the below analysis it is clear between 2017 and 2018 a shift in sentiment h
 2018
 ![](https://github.com/AsaHolley/Stock-Analysis/blob/main/Refractored%20Code%202018.png)
 
+As the below screenshots shot, the refactored code for the green stock analysis improved the speed of the analysis significantly. The reason for this improvement is because the refactored code uses less computing power for calculation due to the fact that we are using more effect loops that go through fewer iterations. 
 
 **Original Code**
 
