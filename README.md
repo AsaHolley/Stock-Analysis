@@ -4,10 +4,10 @@ This project is an analysis of green energy stocks using VBA to measure performa
 ## Comparison of Stock Returns and Refractored Code
 
 2017 Stock Returns and volume
-![]https://github.com/AsaHolley/Stock-Analysis/blob/main/2017%20Analysis.png
+![](https://github.com/AsaHolley/Stock-Analysis/blob/main/2017%20Analysis.png)
 
 2018 Stock Returns and volume
-![]https://github.com/AsaHolley/Stock-Analysis/blob/main/2018%20Analysis.png
+![](https://github.com/AsaHolley/Stock-Analysis/blob/main/2018%20Analysis.png)
 
 
 
