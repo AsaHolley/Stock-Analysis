@@ -1,2 +1,2 @@
 # Stock-Analysis
-VBA work
+VBA work for green stocks analysis
