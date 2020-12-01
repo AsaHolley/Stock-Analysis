@@ -15,10 +15,21 @@ From the below analysis it is clear between 2017 and 2018 a shift in sentiment h
 
 
 **Original Code Run Time**
+2017
+![](https://github.com/AsaHolley/Stock-Analysis/blob/main/Non-refractored%20Code%202017.png) 
 
-
+2018
+![](https://github.com/AsaHolley/Stock-Analysis/blob/main/Non-refractored%20Code%202018.png)
 **Refractored Code Run Time**
+2017
+![](https://github.com/AsaHolley/Stock-Analysis/blob/main/Refractored%20Code%202017.png)
 
+2018
+![](https://github.com/AsaHolley/Stock-Analysis/blob/main/Refractored%20Code%202018.png)
+
+**Original Code**
+
+**Refractored Code**
 
 ## Summary
 
