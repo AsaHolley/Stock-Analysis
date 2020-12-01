@@ -3,14 +3,23 @@ This project is an analysis of green energy stocks using VBA to measure performa
 
 ## Comparison of Stock Returns and Refractored Code
 
-Frin the below analysis
+From the below analysis it is clear between 2017 and 2018 a shift in sentiment happened on green stocks, with the notable expectations of ENPH and RUN. Both ENPTH and RUN produced outsized returns in both 2017 and 2018 while green stocks on a whole performed poorly after having a healthy 2017. It is also notable that both ENPH and RUN had higher trading volumes on average then their peer group in both years, which could indicate higher interest in these stocks from the broader market.  
 
-2017 Stock Returns and volume
+**2017 Stock Returns and volume**
 ![](https://github.com/AsaHolley/Stock-Analysis/blob/main/2017%20Analysis.png)
 
-2018 Stock Returns and volume
+
+**2018 Stock Returns and volume**
 ![](https://github.com/AsaHolley/Stock-Analysis/blob/main/2018%20Analysis.png)
 
 
+
+**Original Code Run Time**
+
+
+**Refractored Code Run Time**
+
+
+## Summary
 
 
